@@ -1,2 +1,2 @@
 # clemo
-(https://shahriyor-2006.github.io/clemo/)[clemo]
+[clemo](https://shahriyor-2006.github.io/clemo/)
